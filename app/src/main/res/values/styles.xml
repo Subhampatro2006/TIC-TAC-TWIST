@@ -1,0 +1,11 @@
+<resources>
+    <!-- other styles -->
+
+    <style name="TicButton">
+        <item name="android:layout_width">100dp</item>
+        <item name="android:layout_height">100dp</item>
+        <item name="android:textSize">24sp</item>
+        <item name="android:layout_margin">5dp</item>
+    </style>
+
+</resources>
